@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anta&family=Coiny&family=Gugi&family=Kode+Mono:wght@400..700&family=Protest+Guerrilla&family=Protest+Revolution&display=swap');
+.UPPER{
+    display: flex;
+    background-color: rgba(2, 8, 44, 0.759);
+    margin-top: 50px;
+}
+.img{
+    border: 5px double rgb(2, 5, 4);
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px rgb(25, 117, 63);
+}
+body{
+    background-image: url("anas-alshanti-feXpdV001o4-unsplash.jpg");
+    background-size: cover;
+}
+H5{
+    color: white;
+}
+.qw{
+    display: flex;
+}
+.main{
+    display: flex;
+    margin-left: 250px;
+}
